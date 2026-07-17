@@ -1,12 +1,12 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "Reproducible multi-repo stack composition + cross-repo MR orchestration",
     "homepage": "https://github.com/Nastwinns/hawser",
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Nastwinns/hawser/releases/download/v0.1.2/haw-0.1.2-x86_64-pc-windows-msvc.zip",
-            "hash": "cb4f74d429ba209f8ae66782f1e993d580ea28d5fa99a46b0507f3f92bec7d68"
+            "url": "https://github.com/Nastwinns/hawser/releases/download/v0.1.3/haw-0.1.3-x86_64-pc-windows-msvc.zip",
+            "hash": "123d6b1f9122f9da30203faf9386b560819844cf74c1724115025568fa1da034"
         }
     },
     "bin": "haw.exe",
